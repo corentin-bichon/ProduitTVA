@@ -1,5 +1,5 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÀ”8ä©Åîã.
-w	java:S116"[Rename this field "POURCENTAGE_TVAA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¨¬Ô8ä©Åîã.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÀ”8èÍö÷ã.
+w	java:S116"[Rename this field "POURCENTAGE_TVAA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¨¬Ô8èÍö÷ã.
 >
-java:S1170"!Make this final field static too.(¾¨¬Ô8ä©Åîã.
+java:S1170"!Make this final field static too.(¾¨¬Ô8èÍö÷ã.

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProduitTVA.iml" filepath="$PROJECT_DIR$/ProduitTVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD-Java.iml" filepath="$PROJECT_DIR$/TD-Java.iml" />
     </modules>
   </component>
 </project>
