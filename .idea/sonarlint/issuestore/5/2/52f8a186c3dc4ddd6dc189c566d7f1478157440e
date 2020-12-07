@@ -1,19 +1,0 @@
-
-—
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÈ¸À
-‰
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(üÿÜˆ8øÏÌøã.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÌó¼ÿÿÿÿÿ8øÏÌøã.
-M
-java:S1135?"2Complete the task associated to this TODO comment.(ÉÊæ­øÿÿÿÿ
-`	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(¨„­×øÿÿÿÿ
-`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Û«øÿÿÿÿ
-
-java:S1130'"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¨„­×øÿÿÿÿ8´ÂÎøã.
-[	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(Ş¸°‹
-[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(üÿÜˆ
-M
-java:S11355"2Complete the task associated to this TODO comment.(ÉÊæ­øÿÿÿÿ
-[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÈ¸À
-J
-java:S1128"-Remove this unused import 'org.junit.Before'.(ÙşºÙ8øÏÌøã.
