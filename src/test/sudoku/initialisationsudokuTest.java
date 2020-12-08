@@ -8,6 +8,8 @@ import org.junit.jupiter.params.provider.ValueSource;
 import sudoku.Case;
 import sudoku.Initialisationsudoku;
 
+import static org.testng.Assert.assertEquals;
+
 class initialisationsudokuTest {
 
     @BeforeAll
@@ -77,6 +79,10 @@ class initialisationsudokuTest {
         Initialisationsudoku sudoku = new Initialisationsudoku();
         sudoku.initialiserJeu(4);
         Case[] tableauTest = sudoku.getTableauSudoku();
+
+        //On verifi que le tableau a bien été initialisé
+        assertEquals( tableauTest.length , 4*4 );
+
 
         System.out.println("Sudoku de base");
 
