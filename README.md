@@ -1,7 +1,7 @@
-#Titre
+ProjetSudoku
 <p>
 Auteur : Corentin BICHON NOUGAILLAC </p> <p>
-Cadre : TD noté en informatique 1 année 3IL Rodez
+Cadre : TD notÃ© en informatique 1 annÃ©e 3IL Rodez
 
 </p>
 
@@ -13,12 +13,12 @@ Git clone https://github.com/corentin-bichon/ProjetTDgit.git
 ``` 
 
 <p> 2 branches :  Master ( mode production ) &
-                  Développement ( mode codage & Test )  </p>
+                  DÃ©veloppement ( mode codage & Test )  </p>
                 
-<p> Pull request obligatoire pour merge Développement sur Master </p>
+<p> Pull request obligatoire pour merge DÃ©veloppement sur Master </p>
 
 
-<h5> Test réalisé à l’aide de Junit </h5>
+<h5> Test rÃ©alisÃ© Ã  lâ€™aide de Junit </h5>
 <p> Coverage : 100% </p>
 
 ![alt text](coverage.PNG)
@@ -27,7 +27,7 @@ Git clone https://github.com/corentin-bichon/ProjetTDgit.git
 
 ![alt text](SonarLint.PNG)
 
-<p> SonartLint de detecte aucun problème , les bonnes pratiques de codages sont respectés</p>
+<p> SonartLint de detecte aucun problÃ¨me , les bonnes pratiques de codages sont respectÃ©s</p>
 
 
 
