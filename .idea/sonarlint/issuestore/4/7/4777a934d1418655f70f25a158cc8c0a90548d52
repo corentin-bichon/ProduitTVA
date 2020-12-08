@@ -1,0 +1,12 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„°ΘΡÿÿÿÿÿ8©υ«όγ.
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ξΥυήώÿÿÿÿ8εΎ­όγ.
+G
+java:S1068"%Remove this unused "b" private field.(ΨΎμ±όÿÿÿÿ8©υ«όγ.
+G
+java:S1068"%Remove this unused "a" private field.(ή‹®ψÿÿÿÿ8©υ«όγ.
+r
+java:S1450"PRemove the "a" field and declare it as a local variable in the relevant methods.(ή‹®ψÿÿÿÿ8Ύ…―όγ.
+r
+java:S1450"PRemove the "b" field and declare it as a local variable in the relevant methods.(ΨΎμ±όÿÿÿÿ8Ύ…―όγ.
