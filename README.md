@@ -1,4 +1,4 @@
-#Titre
+#Sudoku
 <p>
 Auteur : Corentin BICHON NOUGAILLAC </p> <p>
 Cadre : TD noté en informatique 1 année 3IL Rodez
